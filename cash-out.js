@@ -4,4 +4,4 @@ function cashOut( money ) {
   }
   return money * 1.75 / 100;
 }
-console.log(cashOut(-30));
+
